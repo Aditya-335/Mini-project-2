@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    
+
+
+}
+
+header h1{
+   
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px  20px ;
+    transition: 0.5s ease;
+    color: #fff;
+}
+h1{
+    background-color: #007acc;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+}
+
+p{
+    color:#000;
+    font-weight:600;
+    font-size: 1.5rem;
+    font-family: 'Poppins';
+    float: left;
+}
+
+body{
+    background-color: #D0D4CA;
+    background-size: cover;
+}
+p{
+    float:left;
+}
+.pic1{
+    border: #000 solid 4px;
+}
+.pic2{
+    border: #000 solid 4px;
+}
+.pic3{
+    border: #000 solid 4px;
+}
+.pic4{
+    border: #000 solid 4px;
+}
+.pic5{
+    border: #000 solid 4px;
+}
+.pic6{
+    border: #000 solid 4px;
+}
+.pic7{
+    border: #000 solid 4px;
+}
+.pic8{
+    border: #000 solid 4px;
+}
+
